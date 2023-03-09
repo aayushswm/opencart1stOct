@@ -1,4 +1,4 @@
-package opencartjavaproject;
+package testPackage;
 
 public class TestBAse {
 
